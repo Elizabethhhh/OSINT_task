@@ -1,0 +1,27 @@
++-----------------+---------------------------------------+------+------------+-------------------------------------+
+|        IP       |              Organization             | Port |  Product   |               Version               |
++-----------------+---------------------------------------+------+------------+-------------------------------------+
+|   185.215.4.40  |             DDOS-GUARD LTD            |  80  | DDoS-Guard |               Unknown               |
+|   185.215.4.40  |             DDOS-GUARD LTD            | 443  | DDoS-Guard |               Unknown               |
+| 178.248.232.122 |                HLL LLC                |  80  |  Unknown   |               Unknown               |
+| 178.248.232.122 |                HLL LLC                | 443  |  Unknown   |               Unknown               |
+|   158.160.97.2  |            Yandex.Cloud LLC           | 123  |  Unknown   |               Unknown               |
+|   158.160.97.2  |            Yandex.Cloud LLC           |  22  |  OpenSSH   |        8.4p1 Debian 5+deb11u3       |
+|  51.250.46.249  |            Yandex.Cloud LLC           |  80  |  Unknown   |               Unknown               |
+| 178.248.236.121 |                HLL LLC                |  80  |  Unknown   |               Unknown               |
+| 178.248.236.121 |                HLL LLC                | 443  |  Unknown   |               Unknown               |
+|  54.194.41.141  |            Amazon.com, Inc.           |  80  |  Unknown   |               Unknown               |
+|  54.194.41.141  |            Amazon.com, Inc.           | 443  |  Unknown   |               Unknown               |
+|  35.227.225.220 |               Google LLC              |  80  |  Unknown   |               Unknown               |
+|  35.227.225.220 |               Google LLC              | 443  |  Unknown   |               Unknown               |
+|   185.215.4.20  |             DDOS-GUARD LTD            |  80  | DDoS-Guard |               Unknown               |
+|   185.215.4.20  |             DDOS-GUARD LTD            | 443  | DDoS-Guard |               Unknown               |
+|  23.105.240.15  | EDINAYA SET LIMITED LIABILITY COMPANY |  80  |   nginx    |               Unknown               |
+|  23.105.240.15  | EDINAYA SET LIMITED LIABILITY COMPANY | 443  |   nginx    |               Unknown               |
+|  84.201.174.248 |            Yandex.Cloud LLC           |  80  |   nginx    |                1.20.1               |
+|  84.201.174.248 |            Yandex.Cloud LLC           | 8001 |   nginx    |                1.21.3               |
+|  84.201.174.248 |            Yandex.Cloud LLC           |  22  |  OpenSSH   |       8.2p1 Ubuntu 4ubuntu0.11      |
+|  84.201.174.248 |            Yandex.Cloud LLC           | 8889 |  MariaDB   | 10.6.4-MariaDB-1:10.6.4+maria~focal |
+|   51.250.7.10   |            Yandex.Cloud LLC           |  80  |   nginx    |                1.18.0               |
+|   51.250.7.10   |            Yandex.Cloud LLC           | 123  |  Unknown   |               Unknown               |
++-----------------+---------------------------------------+------+------------+-------------------------------------+
